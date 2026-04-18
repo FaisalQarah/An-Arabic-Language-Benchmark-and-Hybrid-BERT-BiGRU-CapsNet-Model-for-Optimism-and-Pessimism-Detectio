@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "An Arabic Language Benchmark and Hybrid BERT–BiGRU–CapsNet Model for Optimism and Pessimism Detection"
+message: "If you use this repository, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Alsanoosy"
+    given-names: "Tawfeeq"
+  - family-names: "Qarah"
+    given-names: "Faisal"
+doi: ""
